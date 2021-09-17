@@ -1,0 +1,19 @@
+{
+    "username": "nada gamal",
+    "location": "Egypt",
+    "skills": [
+        "html",
+        "css",
+        "js",
+        "jquery"
+    ],
+    "adresess": {
+        "Egypt": "mansoura",
+        "ksa": "Malaz",
+        "usa": "california"
+    },
+    "Age": 20,
+    "working": "web developer"
+    
+}
+
